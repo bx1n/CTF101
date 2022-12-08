@@ -30,6 +30,8 @@
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Hacker Paradise</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="aws_key_id">HB79EDYIY837939UNDQO8U3Q8N3DQ</string>
+    <string name="aws_key_secret">wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
     <string name="bottomsheet_action_expand">Expand the bottom sheet</string>
@@ -45,7 +47,6 @@
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-    <string name="getkey">this_is_aws_an_key_EDYIY837939UNDQO8U3Q8N3DQ</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="icon_content_description">Dialog Icon</string>
     <string name="item_view_role_description">Tab</string>
